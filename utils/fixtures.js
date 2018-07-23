@@ -1,6 +1,6 @@
 const axios = require('axios');
-const { apiKey } = require('../config/config');
-const { apiSecret } = require('../config/config');
+const { apiKey,apiSecret } = require('../config/config');
+
 
 var url = `http://livescore-api.com/api-client/fixtures/leagues.json?key=${apiKey}&secret=${apiSecret}`;
 
