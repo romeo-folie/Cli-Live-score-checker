@@ -6,7 +6,7 @@ Fetches and displays livescores and fixtures from user specified leagues to the 
 * Your own apiKey and apiSecret from livescore-api.com
 
 ## Usage
-`$ npm install`
-`$ livescore-cli [scores][fixtures] --league --country`
+* `$ npm install`
+* `$ livescore-cli [scores][fixtures] --league --country`
 
 
