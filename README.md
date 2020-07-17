@@ -1,4 +1,4 @@
-# Cli-Live-score-ish-checker
+# Cli-Live-score-checker
 Fetches and displays livescores and fixtures from user specified leagues to the command line.
 
 ### Requirements
